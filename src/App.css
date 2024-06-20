@@ -1,0 +1,168 @@
+*{
+  width: 100%;
+  margin: 0;
+  text-decoration: none;
+  outline: none;
+  background-color: #f0f2f5;
+}
+
+.container{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: -150px;
+}
+
+.log-in{
+  align-items: center;
+  border: none;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin: 40px 0 0;
+  padding: 20px 0 28px;
+  width: 396px;
+}
+
+.log-in1{
+  align-items: center;
+  background-color: #fff;
+  border: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+  box-sizing: border-box;
+  margin: 40px 0 0;
+  padding: 4px 0 28px;
+  width: 396px;
+}
+
+form{
+  /* padding: 14px 16px; */
+  background-color: #fff;
+  width: 394px;
+}
+input[type='password']{
+  display: block;
+  background-color: #fff;
+  margin: auto;
+  border: 1.5px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  text-align: left;
+  color: black;
+  font-weight: 300;
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 330px;
+  margin-top: -13px;
+}
+
+input[type='text']{
+  display: block;
+  background-color: #fff;
+  margin: auto;
+  border: 1.5px solid rgb(200, 200, 200);
+  border-radius: 5px;
+  text-align: left;
+  color: black;
+  font-weight: 300;
+  font-size: 17px;
+  padding: 14px 16px;
+  width: 330px;
+  margin-top: 12px;
+}
+
+button{
+  border: none;
+  color: white;
+  margin: auto;
+  width: 283px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px 0;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.btn{
+  border: none;
+  background-color: #1877f2;
+  color: white;
+  width: 368px;
+  display: block;
+  border-radius: 5px;
+  padding: 14px 16px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 20px;
+  margin-top: -13px;
+}
+
+.buttonLog{
+  display: block;
+  width: 215px;
+  margin: auto;
+  color: #1877f2;
+  padding-left: 80px;
+  font-weight: 600;
+  background-color: #fff;
+  font-size: 15px;
+  margin-bottom: -12px;
+  margin-top: -10px;
+}
+
+
+.line{
+  border-top: 1px solid #222;
+  opacity: 0.2;
+}
+
+.btn1{
+  width: 187px;
+  height: 49px;
+  font-size: 17px;
+  background-color: #42b72a;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: -6px;
+  padding: 0 16px;
+  margin-top: 22px;
+}
+
+.mainlogo{
+  padding: 30px 0 16px;
+}
+
+.logo{
+  width: 320px;
+}
+
+.facebook img{
+  height: 106px;
+  margin: -28px;
+}
+
+.facebook p{
+  font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+  font-size: 28px;
+  font-weight: normal;
+  width: 500px;
+  line-height: 32px;
+}
+
+.facebook{
+  box-sizing: border-box;
+  margin-right: 0;
+  padding-right: 32px;
+  width: 580px;
+}
+
+.content{
+  border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+}
